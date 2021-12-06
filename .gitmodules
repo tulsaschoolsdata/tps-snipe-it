@@ -1,0 +1,4 @@
+[submodule "snipe-it"]
+	path = snipe-it
+	url = git@github.com:tulsaschoolsdata/snipe-it.git
+	branch = tps/5.3
